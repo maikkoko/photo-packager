@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "main": "./electron/index.js",
   "homepage": "./",
+  "author":
+    "Maikko A. Aleman <maikko.aleman@gmail.com> (https://maikkoko.github.io/)",
   "repository": {
     "type": "git",
     "url": "https://github.com/npm/npm.git"
